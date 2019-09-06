@@ -4,7 +4,7 @@
 #
 Name     : mvn-plexus-utils
 Version  : 1.0.4
-Release  : 11
+Release  : 12
 URL      : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/1.0.4/plexus-utils-1.0.4.jar
 Source0  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/1.0.4/plexus-utils-1.0.4.jar
 Source1  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/1.0.4/plexus-utils-1.0.4.pom
@@ -52,45 +52,49 @@ Source42  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/2.0.
 Source43  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/2.0.6/plexus-utils-2.0.6.jar
 Source44  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/2.0.6/plexus-utils-2.0.6.pom
 Source45  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.pom
-Source46  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.jar
-Source47  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.pom
-Source48  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.11/plexus-utils-3.0.11.jar
-Source49  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.11/plexus-utils-3.0.11.pom
-Source50  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.14/plexus-utils-3.0.14.pom
-Source51  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.jar
-Source52  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.pom
-Source53  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.17/plexus-utils-3.0.17.jar
-Source54  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.17/plexus-utils-3.0.17.pom
-Source55  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.18/plexus-utils-3.0.18.jar
-Source56  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.18/plexus-utils-3.0.18.pom
-Source57  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20.jar
-Source58  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20.pom
-Source59  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.21/plexus-utils-3.0.21.jar
-Source60  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.21/plexus-utils-3.0.21.pom
-Source61  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.jar
-Source62  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom
-Source63  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom
-Source64  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.jar
-Source65  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.pom
-Source66  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.3/plexus-utils-3.0.3.pom
-Source67  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.4/plexus-utils-3.0.4.jar
-Source68  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.4/plexus-utils-3.0.4.pom
-Source69  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.5/plexus-utils-3.0.5.jar
-Source70  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.5/plexus-utils-3.0.5.pom
-Source71  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.7/plexus-utils-3.0.7.jar
-Source72  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.7/plexus-utils-3.0.7.pom
-Source73  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.8/plexus-utils-3.0.8.jar
-Source74  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.8/plexus-utils-3.0.8.pom
-Source75  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.jar
-Source76  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.pom
-Source77  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.1.0/plexus-utils-3.1.0.jar
-Source78  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.1.0/plexus-utils-3.1.0.pom
-Source79  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.jar
-Source80  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.pom
+Source46  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.1/plexus-utils-3.0.1.jar
+Source47  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.1/plexus-utils-3.0.1.pom
+Source48  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.jar
+Source49  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.pom
+Source50  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.11/plexus-utils-3.0.11.jar
+Source51  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.11/plexus-utils-3.0.11.pom
+Source52  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.14/plexus-utils-3.0.14.pom
+Source53  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.jar
+Source54  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.pom
+Source55  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.17/plexus-utils-3.0.17.jar
+Source56  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.17/plexus-utils-3.0.17.pom
+Source57  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.18/plexus-utils-3.0.18.jar
+Source58  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.18/plexus-utils-3.0.18.pom
+Source59  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20.jar
+Source60  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20.pom
+Source61  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.21/plexus-utils-3.0.21.jar
+Source62  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.21/plexus-utils-3.0.21.pom
+Source63  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.jar
+Source64  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom
+Source65  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom
+Source66  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.jar
+Source67  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.pom
+Source68  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.3/plexus-utils-3.0.3.pom
+Source69  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.4/plexus-utils-3.0.4.jar
+Source70  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.4/plexus-utils-3.0.4.pom
+Source71  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.5/plexus-utils-3.0.5.jar
+Source72  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.5/plexus-utils-3.0.5.pom
+Source73  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.7/plexus-utils-3.0.7.jar
+Source74  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.7/plexus-utils-3.0.7.pom
+Source75  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.8/plexus-utils-3.0.8.jar
+Source76  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.8/plexus-utils-3.0.8.pom
+Source77  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.jar
+Source78  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.pom
+Source79  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.1.0/plexus-utils-3.1.0.jar
+Source80  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.1.0/plexus-utils-3.1.0.pom
+Source81  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.jar
+Source82  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.pom
 Summary  : No detailed summary available
 Group    : Development/Tools
 License  : Apache-2.0
 Requires: mvn-plexus-utils-data = %{version}-%{release}
+BuildRequires : apache-maven
+BuildRequires : buildreq-mvn
 
 %description
 No detailed description available
@@ -247,110 +251,116 @@ cp %{SOURCE44} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/pl
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/2.1
 cp %{SOURCE45} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.pom
 
-mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.10
-cp %{SOURCE46} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.jar
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.1
+cp %{SOURCE46} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.1/plexus-utils-3.0.1.jar
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.1
+cp %{SOURCE47} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.1/plexus-utils-3.0.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.10
-cp %{SOURCE47} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.pom
+cp %{SOURCE48} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.jar
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.10
+cp %{SOURCE49} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.11
-cp %{SOURCE48} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.11/plexus-utils-3.0.11.jar
+cp %{SOURCE50} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.11/plexus-utils-3.0.11.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.11
-cp %{SOURCE49} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.11/plexus-utils-3.0.11.pom
+cp %{SOURCE51} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.11/plexus-utils-3.0.11.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.14
-cp %{SOURCE50} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.14/plexus-utils-3.0.14.pom
+cp %{SOURCE52} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.14/plexus-utils-3.0.14.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.15
-cp %{SOURCE51} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.jar
+cp %{SOURCE53} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.15
-cp %{SOURCE52} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.pom
+cp %{SOURCE54} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.17
-cp %{SOURCE53} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.17/plexus-utils-3.0.17.jar
+cp %{SOURCE55} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.17/plexus-utils-3.0.17.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.17
-cp %{SOURCE54} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.17/plexus-utils-3.0.17.pom
+cp %{SOURCE56} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.17/plexus-utils-3.0.17.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.18
-cp %{SOURCE55} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.18/plexus-utils-3.0.18.jar
+cp %{SOURCE57} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.18/plexus-utils-3.0.18.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.18
-cp %{SOURCE56} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.18/plexus-utils-3.0.18.pom
+cp %{SOURCE58} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.18/plexus-utils-3.0.18.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.20
-cp %{SOURCE57} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20.jar
+cp %{SOURCE59} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.20
-cp %{SOURCE58} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20.pom
+cp %{SOURCE60} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.21
-cp %{SOURCE59} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.21/plexus-utils-3.0.21.jar
+cp %{SOURCE61} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.21/plexus-utils-3.0.21.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.21
-cp %{SOURCE60} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.21/plexus-utils-3.0.21.pom
+cp %{SOURCE62} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.21/plexus-utils-3.0.21.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.22
-cp %{SOURCE61} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.jar
+cp %{SOURCE63} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.22
-cp %{SOURCE62} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom
+cp %{SOURCE64} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.22
-cp %{SOURCE63} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom
+cp %{SOURCE65} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.24
-cp %{SOURCE64} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.jar
+cp %{SOURCE66} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.24
-cp %{SOURCE65} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.pom
+cp %{SOURCE67} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.3
-cp %{SOURCE66} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.3/plexus-utils-3.0.3.pom
+cp %{SOURCE68} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.3/plexus-utils-3.0.3.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.4
-cp %{SOURCE67} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.4/plexus-utils-3.0.4.jar
+cp %{SOURCE69} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.4/plexus-utils-3.0.4.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.4
-cp %{SOURCE68} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.4/plexus-utils-3.0.4.pom
+cp %{SOURCE70} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.4/plexus-utils-3.0.4.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.5
-cp %{SOURCE69} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.5/plexus-utils-3.0.5.jar
+cp %{SOURCE71} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.5/plexus-utils-3.0.5.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.5
-cp %{SOURCE70} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.5/plexus-utils-3.0.5.pom
+cp %{SOURCE72} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.5/plexus-utils-3.0.5.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.7
-cp %{SOURCE71} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.7/plexus-utils-3.0.7.jar
+cp %{SOURCE73} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.7/plexus-utils-3.0.7.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.7
-cp %{SOURCE72} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.7/plexus-utils-3.0.7.pom
+cp %{SOURCE74} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.7/plexus-utils-3.0.7.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.8
-cp %{SOURCE73} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.8/plexus-utils-3.0.8.jar
+cp %{SOURCE75} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.8/plexus-utils-3.0.8.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.8
-cp %{SOURCE74} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.8/plexus-utils-3.0.8.pom
+cp %{SOURCE76} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.8/plexus-utils-3.0.8.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0
-cp %{SOURCE75} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.jar
+cp %{SOURCE77} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0
-cp %{SOURCE76} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.pom
+cp %{SOURCE78} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.1.0
-cp %{SOURCE77} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.1.0/plexus-utils-3.1.0.jar
+cp %{SOURCE79} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.1.0/plexus-utils-3.1.0.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.1.0
-cp %{SOURCE78} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.1.0/plexus-utils-3.1.0.pom
+cp %{SOURCE80} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.1.0/plexus-utils-3.1.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.2.0
-cp %{SOURCE79} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.jar
+cp %{SOURCE81} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.2.0
-cp %{SOURCE80} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.pom
+cp %{SOURCE82} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.pom
 
 
 %files
@@ -402,6 +412,8 @@ cp %{SOURCE80} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/pl
 /usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/2.0.6/plexus-utils-2.0.6.jar
 /usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/2.0.6/plexus-utils-2.0.6.pom
 /usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/2.1/plexus-utils-2.1.pom
+/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.1/plexus-utils-3.0.1.jar
+/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.1/plexus-utils-3.0.1.pom
 /usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.jar
 /usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.pom
 /usr/share/java/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.11/plexus-utils-3.0.11.jar
